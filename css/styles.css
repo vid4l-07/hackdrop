@@ -67,7 +67,7 @@ h1{
 .logo{
     color: var(--color-boton);
     margin: auto;
-    font-family: consolas;
+    font-family: consolas, 'monospace';
     font-size: 40;
 }
 
